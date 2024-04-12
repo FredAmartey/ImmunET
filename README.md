@@ -1,9 +1,15 @@
 # ImmunET
-Final Project for CSYE 6200 - Immunization Record Application
+Pet Immunization Record Application
 
+
+Comprehensive system developed for veterinary doctors to efficiently manage and track pet immunization records. The system facilitates the creation and editing of vaccine schedules, with the ability to generate reports. It allows veterinarians to manage pet and owner information. The system enables the signing of immunization records to mark them as complete, as well as generate daily immunization bills. Additionally, it provides the functionality to generate comprehensive immunization reports covering all vaccinations administered to date. Furthermore, it incorporates features for tracking pet vitals before and after vaccination for potential diagnostic purposes in case of any health issues.
+
+
+## CodeBase UML
+![Code UML](/documentation/UML/PUML.svg)
 
 ## ER-Diagram
-![ER Diagram](/docs/ER/ER-IMMUNET-Light.png)
+![ER Diagram](/documentation/ER/ER-IMMUNET-Light.png)
 
 
 ## Models
