@@ -42,8 +42,8 @@ const Sidebar = ({ children, open, setOpen, nav, setNav }) => {
                 <Image width={50} src={userIcon} alt="" />
               </div>
               <div className="text-sm">
-                <h1 className="font-semibold">admin user</h1>
-                <h1>admin@gmail.com</h1>
+                <h1 className="font-semibold">Daniel Peters</h1>
+                <h1>dpeters@csye6200.com</h1>
               </div>
             </div>
           </div>

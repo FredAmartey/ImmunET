@@ -1,9 +1,9 @@
-import VaccineSpeciesListComponent from "@/components/VaccineSpeciesListComponent/VaccineSpeciesListComponent";
+import DoctorComponent from "@/components/DoctorComponent/DoctorComponent";
 
 const Home = () => {
   return (
     <div>
-      <VaccineSpeciesListComponent></VaccineSpeciesListComponent>
+      <DoctorComponent></DoctorComponent>
     </div>
   );
 };
